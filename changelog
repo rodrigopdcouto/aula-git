@@ -1,4 +1,8 @@
 inicio
 f1
+<<<<<<< HEAD
 f2
 fix
+=======
+f3
+>>>>>>> feature/Feature-3
